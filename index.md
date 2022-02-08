@@ -4,9 +4,9 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./macrotool/index.html).
+[Create PF Macro](./macrotool/).
 
-[Link to another page](https://github.com/sugond/sugond.github.io).
+[Main repo](https://github.com/sugond/sugond.github.io).
 
 There should be whitespace between paragraphs.
 

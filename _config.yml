@@ -1,3 +1,7 @@
+title: Sugon Dese
+description: scuffed tools and plugins or something
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-cayman
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
